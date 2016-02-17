@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You're up and running!"
-published: true
+published: false
 ---
 
 
@@ -14,6 +14,8 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 ```javascript
 function()
 {
-	return 0;
+	return (
+    	<Provice store={}>
+        </Provice>
 }
 ```
