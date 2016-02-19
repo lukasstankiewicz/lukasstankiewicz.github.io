@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boost your JavaScript Development with Webpack"
+title: "Boost Yours Development with Webpack"
 ---
 
-## Comming soon
+Comming soon
