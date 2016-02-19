@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boost Yours Development with Webpack"
+title: "Boost Development with Webpack"
 ---
 
 Comming soon
